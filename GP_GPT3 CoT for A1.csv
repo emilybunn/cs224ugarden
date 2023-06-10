@@ -1,0 +1,1264 @@
+GP-A-AM,the babysitter purchased a gift card thanked the parents.,Who said thanks?,"the babysitter purchased a gift card
+the babysitter
+babysitter purchased a gift card
+babysitter", The parents thanked the babysitter.
+GP-A-PM,the babysitter purchased a gift card thanked the parents.,Who was thanked?,"the parents
+parents", The parents were thanked.
+GP-A-PE,the babysitter purchased a gift card thanked the parents.,Who got a gift card?,"the babysitter purchased a gift card
+the babysitter
+babysitter purchased a gift card
+babysitter", The parents got a gift card.
+GP-A-A1,the babysitter purchased a gift card thanked the parents.,What did the babysitter do?,thanked the parents, The babysitter thanked the parents.
+GP-U-AM,the babysitter who was purchased a gift card thanked the parents.,Who said thanks?,"the babysitter who was purchased a gift card
+the babysitter
+babysitter who was purchased a gift card
+babysitter", The babysitter said thanks to the parents.
+GP-U-PM,the babysitter who was purchased a gift card thanked the parents.,Who was thanked?,"the parents
+parents", The parents were thanked.
+GP-U-PE,the babysitter who was purchased a gift card thanked the parents.,Who got a gift card?,"the babysitter who was purchased a gift card
+the babysitter
+babysitter who was purchased a gift card
+babysitter", The parents got a gift card.
+GP-U-A1,the babysitter who was purchased a gift card thanked the parents.,What did the babysitter do?,thanked the parents, The babysitter thanked the parents.
+GP-A-PM,the boy sent an invitation hugged the tutor.,Who was hugged?,"the tutor
+tutor", The tutor was hugged.
+GP-A-PE,the boy sent an invitation hugged the tutor.,Who got an invitation?,"the boy sent an invitation
+the boy
+boy sent an invitation
+boy",The tutor got an invitation from the boy.
+GP-A-A1,the boy sent an invitation hugged the tutor.,What did the boy do?,"hugged the tutor
+hugged",The boy sent an invitation to the tutor and then hugged the tutor.
+GP-A-AM,the boy sent an invitation hugged the tutor.,Who hugged the tutor?,"the boy sent an invitation
+the boy
+boy sent an invitation
+boy", The boy hugged the tutor.
+GP-U-AM,the boy who was sent an invitation hugged the tutor.,Who hugged the tutor?,"the boy who was sent an invitation
+the boy
+boy who was sent an invitation
+boy", The boy who was sent an invitation hugged the tutor.
+GP-U-PM,the boy who was sent an invitation hugged the tutor.,Who was hugged?,"the tutor
+tutor", The tutor was hugged.
+GP-U-PE,the boy who was sent an invitation hugged the tutor.,Who got an invitation?,"the boy who was sent an invitation
+the boy
+boy who was sent an invitation
+boy", The boy got an invitation.
+GP-U-A1,the boy who was sent an invitation hugged the tutor.,What did the boy do?,"hugged the tutor
+hugged", The boy hugged the tutor.
+GP-A-PM,the boyfriend left a voicemail distrusted the girlfriend.,Who was distrusted?,"the girlfriend
+girlfriend",The girlfriend was distrusted.
+GP-A-PE,the boyfriend left a voicemail distrusted the girlfriend.,Who got a voicemail?,"the boyfriend left a voicemail
+the boyfriend
+boyfriend left a voicemail
+boyfriend", The girlfriend got a voicemail.
+GP-A-A1,the boyfriend left a voicemail distrusted the girlfriend.,What did the boyfriend do?,"distrusted the girlfriend
+distrusted",The boyfriend distrusted the girlfriend.
+GP-A-AM,the boyfriend left a voicemail distrusted the girlfriend.,Who distrusted?,"the boyfriend left a voicemail
+the boyfriend
+boyfriend left a voicemail
+boyfriend", The boyfriend distrusted the girlfriend.
+GP-U-AM,the boyfriend who was left a voicemail distrusted the girlfriend.,Who distrusted?,"the boyfriend who was left a voicemail
+the boyfriend
+boyfriend who was left a voicemail
+boyfriend", The boyfriend distrusted the girlfriend.
+GP-U-PM,the boyfriend who was left a voicemail distrusted the girlfriend.,Who was distrusted?,"the girlfriend
+girlfriend", The girlfriend was distrusted.
+GP-U-PE,the boyfriend who was left a voicemail distrusted the girlfriend.,Who got a voicemail?,"the boyfriend who was left a voicemail
+the boyfriend
+boyfriend who was left a voicemail
+boyfriend", The girlfriend got a voicemail.
+GP-U-A1,the boyfriend who was left a voicemail distrusted the girlfriend.,What did the boyfriend do?,"distrusted the girlfriend
+distrusted", The boyfriend distrusted the girlfriend.
+GP-A-PM,the brit served the first ace defeated the italian.,Who was defeated?,"the italian
+italian",The Italian was defeated.
+GP-A-PE,the brit served the first ace defeated the italian.,Who was served the first ace?,"the brit served the first ace
+the brit
+brit served the first ace
+brit", The British was served the first ace.
+GP-A-A1,the brit served the first ace defeated the italian.,What did the brit do?,"defeated the italian
+defeated", The brit defeated the Italian.
+GP-A-AM,the brit served the first ace defeated the italian.,Who defeated?,"the brit served the first ace
+the brit
+brit served the first ace
+brit", The Brit defeated the Italian.
+GP-U-AM,the brit who was served the first ace defeated the italian.,Who defeated?,"the brit who was served the first ace
+the brit
+brit who was served the first ace
+brit", The Brit defeated the Italian.
+GP-U-PM,the brit who was served the first ace defeated the italian.,Who was defeated?,"the italian
+italian", The Italian was defeated.
+GP-U-PE,the brit who was served the first ace defeated the italian.,Who was served the first ace?,"the brit who was served the first ace
+the brit
+brit who was served the first ace
+brit", The Brit was served the first ace.
+GP-U-A1,the brit who was served the first ace defeated the italian.,What did the brit do?,"defeated the italian
+defeated", The brit defeated the Italian.
+GP-A-PM,the chef presented the new knife greeted the audience.,Who was greeted?,"the audience
+audience", The audience was greeted.
+GP-A-PE,the chef presented the new knife greeted the audience.,Who got a new knife?,"the chef presented the new knife
+the chef
+chef presented the new knife
+chef", The chef got a new knife.
+GP-A-A1,the chef presented the new knife greeted the audience.,What did the chef do?,"greeted the audience
+greeted", The chef greeted the audience.
+GP-A-AM,the chef presented the new knife greeted the audience.,Who greeted the audience?,"the chef presented the new knife
+the chef
+chef presented the new knife
+chef", The chef greeted the audience.
+GP-U-AM,the chef who was presented the new knife greeted the audience.,Who greeted the audience?,"the chef who was presented the new knife
+the chef
+chef who was presented the new knife
+chef", The chef greeted the audience.
+GP-U-PM,the chef who was presented the new knife greeted the audience.,Who was greeted?,"the audience
+audience", The audience was greeted.
+GP-U-PE,the chef who was presented the new knife greeted the audience.,Who got a new knife?,"the chef who was presented the new knife
+the chef
+chef who was presented the new knife
+chef", The chef got a new knife.
+GP-U-A1,the chef who was presented the new knife greeted the audience.,What did the chef do?,"greeted the audience
+greeted", The chef greeted the audience.
+GP-A-PM,the child bought an ice cream cone smiled at the cashier.,Who was smiled at?,"the cashier
+cashier", The cashier was smiled at.
+GP-A-PE,the child bought an ice cream cone smiled at the cashier.,Who got an ice cream cone?,"the child bought an ice cream cone
+the child
+child bought an ice cream cone
+child", The child got an ice cream cone.
+GP-A-A1,the child bought an ice cream cone smiled at the cashier.,What did the child do?,"smiled at the cashier
+smiled", The child smiled at the cashier.
+GP-A-AM,the child bought an ice cream cone smiled at the cashier.,Who smiled?,"the child bought an ice cream cone
+the child
+child bought an ice cream cone
+child", The child smiled at the cashier.
+GP-A-PM,the child read a story hugged the nanny.,Who was hugged?,"the nanny
+nanny",The nanny was hugged.
+GP-A-PE,the child read a story hugged the nanny.,Who was read a story?,"the child read a story
+the child
+child read a story
+child", The child read a story.
+GP-A-A1,the child read a story hugged the nanny.,What did the child do?,"hugged the nanny
+hugged", The child hugged the nanny.
+GP-A-AM,the child read a story hugged the nanny.,Who gave a hug?,"the child read a story
+the child
+child read a story
+child",The child hugged the nanny.
+GP-A-PM,the child saved a front row seat surprised the clown.,Who was surprised?,"the clown
+clown", The clown was surprised.
+GP-A-PE,the child saved a front row seat surprised the clown.,Who was saved a front row seat?,"the child saved a front row seat
+the child
+child saved a front row seat
+child", The child saved a front row seat for the clown.
+GP-A-A1,the child saved a front row seat surprised the clown.,What did the child do?,"surprised the clown
+surprised", The child saved a front row seat for the clown.
+GP-A-AM,the child saved a front row seat surprised the clown.,Who surprised the clown?,"the child saved a front row seat
+the child
+child saved a front row seat
+child", The child surprised the clown.
+GP-U-AM,the child who was bought an ice cream cone smiled at the cashier.,Who smiled?,"the child who was bought an ice cream cone
+the child
+child who was bought an ice cream cone
+child", The child smiled at the cashier.
+GP-U-PM,the child who was bought an ice cream cone smiled at the cashier.,Who was smiled at?,"the cashier
+cashier", The cashier.
+GP-U-PE,the child who was bought an ice cream cone smiled at the cashier.,Who got an ice cream cone?,"the child who was bought an ice cream cone
+the child
+child who was bought an ice cream cone
+child", The child got an ice cream cone.
+GP-U-A1,the child who was bought an ice cream cone smiled at the cashier.,What did the child do?,"smiled at the cashier
+smiled",The child smiled at the cashier.
+GP-U-AM,the child who was read a story hugged the nanny.,Who gave a hug?,"the child who was read a story
+the child
+child who was read a story
+child", The child gave a hug to the nanny.
+GP-U-PM,the child who was read a story hugged the nanny.,Who was hugged?,"the nanny
+nanny", The nanny was hugged.
+GP-U-PE,the child who was read a story hugged the nanny.,Who was read a story?,"the child who was read a story
+the child
+child who was read a story
+child", The child was read a story.
+GP-U-A1,the child who was read a story hugged the nanny.,What did the child do?,"hugged the nanny
+hugged", The child hugged the nanny.
+GP-U-AM,the child who was saved a front row seat surprised the clown.,Who surprised the clown?,"the child who was saved a front row seat
+the child
+child who was saved a front row seat
+child", The child surprised the clown.
+GP-U-PM,the child who was saved a front row seat surprised the clown.,Who was surprised?,"the clown
+clown", The clown was surprised.
+GP-U-PE,the child who was saved a front row seat surprised the clown.,Who was saved a front row seat?,"the child who was saved a front row seat
+the child
+child who was saved a front row seat
+child", The child was saved a front row seat.
+GP-U-A1,the child who was saved a front row seat surprised the clown.,What did the child do?,"surprised the clown
+surprised", The child surprised the clown by giving them a front row seat.
+GP-A-PM,the colonel granted leave phoned a travel agent.,Who was phoned?,"a travel agent
+travel agent",A travel agent was phoned.
+GP-A-PE,the colonel granted leave phoned a travel agent.,Who was granted leave?,"the colonel granted leave
+the colonel
+colonel granted leave
+colonel", The colonel was granted leave.
+GP-A-A1,the colonel granted leave phoned a travel agent.,What did the colonel do?,"phoned a travel agent
+phoned", The colonel phoned a travel agent.
+GP-A-AM,the colonel granted leave phoned a travel agent.,Who phoned?,"the colonel granted leave
+the colonel
+colonel granted leave
+colonel", The colonel phoned a travel agent.
+GP-U-AM,the colonel who was granted leave phoned a travel agent.,Who phoned?,"the colonel who was granted leave
+the colonel
+colonel who was granted leave
+colonel", The colonel phoned the travel agent.
+GP-U-PM,the colonel who was granted leave phoned a travel agent.,Who was phoned?,"a travel agent
+travel agent",A travel agent was phoned.
+GP-U-PE,the colonel who was granted leave phoned a travel agent.,Who was granted leave?,"the colonel who was granted leave
+the colonel
+colonel who was granted leave
+colonel", The colonel was granted leave.
+GP-U-A1,the colonel who was granted leave phoned a travel agent.,What did the colonel do?,"phoned a travel agent
+phoned",The colonel phoned a travel agent.
+GP-A-PM,the dispatcher handed a pink slip worried about the driver.,Who was worried about?,"the driver
+driver", The dispatcher was worried about the driver.
+GP-A-PE,the dispatcher handed a pink slip worried about the driver.,Who was handed a pink slip?,"the dispatcher handed a pink slip
+the dispatcher
+dispatcher handed a pink slip
+dispatcher", The driver was handed a pink slip.
+GP-A-A1,the dispatcher handed a pink slip worried about the driver.,What did the dispatcher do?,"worried about the driver
+worried", The dispatcher handed a pink slip to the driver and was worried about the driver.
+GP-A-AM,the dispatcher handed a pink slip worried about the driver.,Who worried about the driver?,"the dispatcher handed a pink slip
+the dispatcher
+dispatcher handed a pink slip
+dispatcher", The dispatcher worried about the driver.
+GP-U-AM,the dispatcher who was handed a pink slip worried about the driver.,Who worried about the driver?,"the dispatcher who was handed a pink slip
+the dispatcher
+dispatcher who was handed a pink slip
+dispatcher", The dispatcher
+GP-U-PM,the dispatcher who was handed a pink slip worried about the driver.,Who was worried about?,"the driver
+driver",The dispatcher was worried about the driver.
+GP-U-PE,the dispatcher who was handed a pink slip worried about the driver.,Who was handed a pink slip?,"the dispatcher who was handed a pink slip
+the dispatcher
+dispatcher who was handed a pink slip
+dispatcher", The dispatcher.
+GP-U-A1,the dispatcher who was handed a pink slip worried about the driver.,What did the dispatcher do?,"worried about the driver
+worried", The dispatcher worried about the driver.
+GP-A-PM,the doctor delivered the donor organ assisted several surgeons.,Who was assisted?,"several surgeons
+surgeons", Several surgeons were assisted.
+GP-A-PE,the doctor delivered the donor organ assisted several surgeons.,Who was delivered the donor organ?,"the doctor delivered the donor organ
+the doctor
+doctor delivered the donor organ
+doctor", The doctor delivered the donor organ.
+GP-A-A1,the doctor delivered the donor organ assisted several surgeons.,What did the doctor do?,"assisted several surgeons
+assisted", The doctor assisted several surgeons in delivering the donor organ.
+GP-A-AM,the doctor delivered the donor organ assisted several surgeons.,Who assisted several surgeons?,"the doctor delivered the donor organ
+the doctor
+doctor delivered the donor organ
+doctor", The doctor assisted several surgeons.
+GP-U-AM,the doctor who was delivered the donor organ assisted several surgeons.,Who assisted several surgeons?,"the doctor who was delivered the donor organ
+the doctor
+doctor who was delivered the donor organ
+doctor", The doctor who was delivered the donor organ.
+GP-U-PM,the doctor who was delivered the donor organ assisted several surgeons.,Who was assisted?,"several surgeons
+surgeons", Several surgeons were assisted.
+GP-U-PE,the doctor who was delivered the donor organ assisted several surgeons.,Who was delivered the donor organ?,"the doctor who was delivered the donor organ
+the doctor
+doctor who was delivered the donor organ
+doctor", The doctor was delivered the donor organ.
+GP-U-A1,the doctor who was delivered the donor organ assisted several surgeons.,What did the doctor do?,"assisted several surgeons
+assisted", The doctor assisted several surgeons in delivering the donor organ.
+GP-A-PM,the general awarded the medal annoyed the soldier.,Who was annoyed?,"the soldier
+soldier", The soldier was annoyed.
+GP-A-PE,the general awarded the medal annoyed the soldier.,Who was awarded the medal?,"the general awarded the medal
+the general
+general awarded the medal
+general",The soldier was awarded the medal.
+GP-A-A1,the general awarded the medal annoyed the soldier.,What did the general do?,"annoyed the soldier
+annoyed", The general awarded the medal to the soldier.
+GP-A-AM,the general awarded the medal annoyed the soldier.,Who annoyed the soldier?,"the general awarded the medal
+the general
+general awarded the medal
+general", The general annoyed the soldier.
+GP-U-AM,the general who was awarded the medal annoyed the soldier.,Who annoyed the soldier?,"the general who was awarded the medal
+the general
+general who was awarded the medal
+general", The general who was awarded the medal annoyed the soldier.
+GP-U-PM,the general who was awarded the medal annoyed the soldier.,Who was annoyed?,"the soldier
+soldier", The soldier was annoyed.
+GP-U-PE,the general who was awarded the medal annoyed the soldier.,Who was awarded the medal?,"the general who was awarded the medal
+the general
+general who was awarded the medal
+general", The General was awarded the medal.
+GP-U-A1,the general who was awarded the medal annoyed the soldier.,What did the general do?,"annoyed the soldier
+annoyed", The general annoyed the soldier.
+GP-A-PM,the girl passed a note tattled on the classmate.,Who was tattled on?,"the classmate
+classmate", The classmate was tattled on by the girl.
+GP-A-PE,the girl passed a note tattled on the classmate.,Who was passed a note?,"the girl passed a note
+the girl
+girl passed a note
+girl", The girl passed a note.
+GP-A-A1,the girl passed a note tattled on the classmate.,What did the girl do?,"tattled
+tattled on the classmate", The girl tattled on the classmate.
+GP-A-AM,the girl passed a note tattled on the classmate.,Who tattled?,"the girl passed a note
+the girl
+girl passed a note
+girl", The girl tattled on the classmate.
+GP-A-PM,the girl played a song photographed the tourist.,Who was photographed?,"the tourist
+tourist",The tourist was photographed.
+GP-A-PE,the girl played a song photographed the tourist.,Who was played a song?,"the girl played a song
+the girl
+girl played a song
+girl", The girl played a song.
+GP-A-A1,the girl played a song photographed the tourist.,What did the girl do?,"photographed the tourist
+photographed", The girl photographed the tourist.
+GP-A-AM,the girl played a song photographed the tourist.,Who photographed the tourist?,"the girl played a song
+the girl
+girl played a song
+girl", The girl photographed the tourist.
+GP-U-AM,the girl who was passed a note tattled on the classmate.,Who tattled?,"the girl who was passed a note
+the girl
+girl who was passed a note
+girl", The girl tattled on the classmate.
+GP-U-PM,the girl who was passed a note tattled on the classmate.,Who was tattled on?,"the classmate
+classmate", The classmate was tattled on.
+GP-U-PE,the girl who was passed a note tattled on the classmate.,Who was passed a note?,"the girl who was passed a note
+the girl
+girl who was passed a note
+girl", The girl was passed the note.
+GP-U-A1,the girl who was passed a note tattled on the classmate.,What did the girl do?,"tattled
+tattled on the classmate", The girl tattled on the classmate.
+GP-U-AM,the girl who was played a song photographed the tourist.,Who photographed the tourist?,"the girl who was played a song
+the girl
+girl who was played a song
+girl", The girl photographed the tourist.
+GP-U-PM,the girl who was played a song photographed the tourist.,Who was photographed?,"the tourist
+tourist", The tourist was photographed.
+GP-U-PE,the girl who was played a song photographed the tourist.,Who was played a song?,"the girl who was played a song
+the girl
+girl who was played a song
+girl", The girl was played a song.
+GP-U-A1,the girl who was played a song photographed the tourist.,What did the girl do?,"photographed the tourist
+photographed", The girl photographed the tourist.
+GP-U-AM,the girl who was won a stuffed bear ignored the carnival worker.,Who ignored the carnival worker?,"the girl who was won a stuffed bear
+the girl
+girl who was won a stuffed bear
+girl", The girl who won the stuffed bear ignored the carnival worker.
+GP-U-PM,the girl who was won a stuffed bear ignored the carnival worker.,Who was ignored?,"the carnival worker
+carnival worker", The carnival worker was ignored.
+GP-U-PE,the girl who was won a stuffed bear ignored the carnival worker.,Who was won a stuffed bear?,"the girl who was won a stuffed bear
+the girl
+girl who was won a stuffed bear
+girl", The girl was won a stuffed bear.
+GP-U-A1,the girl who was won a stuffed bear ignored the carnival worker.,What did the girl do?,"ignored the carnival worker
+ignored the carnival worker
+ignored", The girl ignored the carnival worker.
+GP-A-PM,the girl won a stuffed bear ignored the carnival worker.,Who was ignored?,"the carnival worker
+carnival worker", The carnival worker was ignored.
+GP-A-PE,the girl won a stuffed bear ignored the carnival worker.,Who was won a stuffed bear?,"the girl won a stuffed bear
+the girl
+girl won a stuffed bear
+girl", The girl won a stuffed bear.
+GP-A-A1,the girl won a stuffed bear ignored the carnival worker.,What did the girl do?,"ignored the carnival worker
+ignored the carnival worker
+ignored", The girl ignored the carnival worker.
+GP-A-AM,the girl won a stuffed bear ignored the carnival worker.,Who ignored the carnival worker?,"the girl won a stuffed bear
+the girl
+girl won a stuffed bear
+girl", The girl ignored the carnival worker.
+GP-A-PM,the golfer cooked a special meal toasted the host.,Who was toasted?,"the host
+host", The host was toasted.
+GP-A-PE,the golfer cooked a special meal toasted the host.,Who was cooked a special meal?,"the golfer cooked a special meal
+the golfer
+golfer cooked a special meal
+golfer", The golfer cooked a special meal.
+GP-A-A1,the golfer cooked a special meal toasted the host.,What did the golfer do?,"toasted the host
+toasted",The golfer toasted the host.
+GP-A-AM,the golfer cooked a special meal toasted the host.,Who toasted?,"the golfer cooked a special meal
+the golfer
+golfer cooked a special meal
+golfer", The golfer toasted the host.
+GP-U-AM,the golfer who was cooked a special meal toasted the host.,Who toasted?,"the golfer who was cooked a special meal
+the golfer
+golfer who was cooked a special meal
+golfer", The golfer toasted the host.
+GP-U-PM,the golfer who was cooked a special meal toasted the host.,Who was toasted?,"the host
+host",The host was toasted.
+GP-U-PE,the golfer who was cooked a special meal toasted the host.,Who was cooked a special meal?,"the golfer who was cooked a special meal
+the golfer
+golfer who was cooked a special meal
+golfer", The host was cooked a special meal.
+GP-U-A1,the golfer who was cooked a special meal toasted the host.,What did the golfer do?,"toasted the host
+taosted", The golfer toasted the host.
+GP-A-PM,the hobo cut a slice of cheese despised the beggar.,Who was despised?,"the beggar
+beggar", The beggar was despised.
+GP-A-PE,the hobo cut a slice of cheese despised the beggar.,Who was cut a slice of cheese?,"the hobo cut a slice of cheese
+the hobo
+hobo cut a slice of cheese
+hobo",The hobo cut a slice of cheese.
+GP-A-A1,the hobo cut a slice of cheese despised the beggar.,What did the hobo do?,"despised the beggar
+despised", The hobo cut a slice of cheese.
+GP-A-AM,the hobo cut a slice of cheese despised the beggar.,Who despised the beggar?,"the hobo cut a slice of cheese
+the hobo
+hobo cut a slice of cheese
+hobo", The hobo despised the beggar.
+GP-U-AM,the hobo who was cut a slice of cheese despised the beggar.,Who despised the beggar?,"the hobo who was cut a slice of cheese
+the hobo
+hobo who was cut a slice of cheese
+hobo",The hobo who was cut a slice of cheese despised the beggar.
+GP-U-PM,the hobo who was cut a slice of cheese despised the beggar.,Who was despised?,"the beggar
+beggar", The beggar was despised.
+GP-U-PE,the hobo who was cut a slice of cheese despised the beggar.,Who was cut a slice of cheese?,"the hobo who was cut a slice of cheese
+the hobo
+hobo who was cut a slice of cheese
+hobo", The hobo was cut a slice of cheese.
+GP-U-A1,the hobo who was cut a slice of cheese despised the beggar.,What did the hobo do?,"despised the beggar
+despised", The hobo despised the beggar.
+GP-A-PM,the inspector paid a fee argued with the fireman.,Who was argued with?,"the fireman
+fireman", The fireman was argued with.
+GP-A-PE,the inspector paid a fee argued with the fireman.,Who was paid a fee?,"the inspector paid a fee
+the inspector
+inspector paid a fee
+inspector",The inspector was paid a fee.
+GP-A-A1,the inspector paid a fee argued with the fireman.,What did the inspector do?,"argued with the fireman
+argued", The inspector argued with the fireman.
+GP-A-AM,the inspector paid a fee argued with the fireman.,Who argued?,"the inspector paid a fee
+the inspector
+inspector paid a fee
+inspector", The inspector and the fireman argued.
+GP-U-AM,the inspector who was paid a fee argued with the fireman.,Who argued?,"the inspector who was paid a fee
+the inspector
+inspector who was paid a fee
+inspector", The inspector and the fireman argued.
+GP-U-PM,the inspector who was paid a fee argued with the fireman.,Who was argued with?,"the fireman
+fireman", The fireman was argued with.
+GP-U-PE,the inspector who was paid a fee argued with the fireman.,Who was paid a fee?,"the inspector who was paid a fee
+the inspector
+inspector who was paid a fee
+inspector", The inspector was paid a fee.
+GP-U-A1,the inspector who was paid a fee argued with the fireman.,What did the inspector do?,"argued with the fireman
+argued",The inspector argued with the firefighter.
+GP-A-PM,the instructor submitted the plagiarized papers visited the dean.,Who was visited?,"the dean
+dean", The dean was visited.
+GP-A-PE,the instructor submitted the plagiarized papers visited the dean.,Who was submitted the plagarized papers?,"the instructor submitted the plagiarized papers
+the instructor
+instructor submitted the plagiarized papers
+instructor", The instructor submitted the plagiarized papers.
+GP-A-A1,the instructor submitted the plagiarized papers visited the dean.,What did the instructor do?,"visited the dean
+visited", The instructor visited the dean.
+GP-A-AM,the instructor submitted the plagiarized papers visited the dean.,Who visited the dean?,"the instructor submitted the plagiarized papers
+the instructor
+instructor submitted the plagiarized papers
+instructor", The instructor visited the dean.
+GP-U-AM,the instructor who was submitted the plagiarized papers visited the dean.,Who visited the dean?,"the instructor who was submitted the plagiarized papers
+the instructor
+instructor who was submitted the plagiarized papers
+instructor", The instructor who submitted the plagiarized papers visited the dean.
+GP-U-PM,the instructor who was submitted the plagiarized papers visited the dean.,Who was visited?,"the dean
+dean", The dean was visited.
+GP-U-PE,the instructor who was submitted the plagiarized papers visited the dean.,Who was submitted the plagarized papers?,"the instructor who was submitted the plagiarized papers
+the instructor
+instructor who was submitted the plagiarized papers
+instructor", The instructor.
+GP-U-A1,the instructor who was submitted the plagiarized papers visited the dean.,What did the instructor do?,"visited the dean
+visited", The instructor visited the dean.
+GP-A-PM,the manager prepared the report praised the employees.,Who was praised?,"the employees
+employees", The employees were praised.
+GP-A-PE,the manager prepared the report praised the employees.,Who was prepared the report?,"the manager prepared the report
+the manager
+manager prepared the report
+manager",The manager prepared the report.
+GP-A-A1,the manager prepared the report praised the employees.,What did the manager do?,"praised the employees
+praised", The manager praised the employees.
+GP-A-AM,the manager prepared the report praised the employees.,Who praised the employees?,"the manager prepared the report
+the manager
+manager prepared the report
+manager",The manager praised the employees.
+GP-U-AM,the manager who was prepared the report praised the employees.,Who praised the employees?,"the manager who was prepared the report
+the manager
+manager who was prepared the report
+manager", The manager praised the employees.
+GP-U-PM,the manager who was prepared the report praised the employees.,Who was praised?,"the employees
+employees", The employees were praised.
+GP-U-PE,the manager who was prepared the report praised the employees.,Who was prepared the report?,"the manager who was prepared the report
+the manager
+manager who was prepared the report
+manager", The manager was prepared the report.
+GP-U-A1,the manager who was prepared the report praised the employees.,What did the manager do?,"praised the employees
+praised", The manager praised the employees.
+GP-A-PM,the millionaire sculpted a statue bragged to the banker.,Who was bragged to?,"the banker
+banker", The banker was bragged to.
+GP-A-PE,the millionaire sculpted a statue bragged to the banker.,Who was sculpted a statue?,"the millionaire sculpted a statue
+the millionaire
+millionaire sculpted a statue
+millionaire", The millionaire sculpted a statue.
+GP-A-A1,the millionaire sculpted a statue bragged to the banker.,What did the millionaire do?,"bragged to the banker
+bragged", The millionaire bragged to the banker.
+GP-A-AM,the millionaire sculpted a statue bragged to the banker.,Who bragged?,"the millionaire sculpted a statue
+the millionaire
+millionaire sculpted a statue
+millionaire", The millionaire bragged to the banker.
+GP-U-AM,the millionaire who was sculpted a statue bragged to the banker.,Who bragged?,"the millionaire who was sculpted a statue
+the millionaire
+millionaire who was sculpted a statue
+millionaire", The millionaire bragged to the banker.
+GP-U-PM,the millionaire who was sculpted a statue bragged to the banker.,Who was bragged to?,"the banker
+banker",The banker was bragged to.
+GP-U-PE,the millionaire who was sculpted a statue bragged to the banker.,Who was sculpted a statue?,"the millionaire who was sculpted a statue
+the millionaire
+millionaire who was sculpted a statue
+millionaire", The millionaire was sculpted a statue.
+GP-U-A1,the millionaire who was sculpted a statue bragged to the banker.,What did the millionaire do?,"bragged to the banker
+bragged",The millionaire bragged to the banker.
+GP-A-PM,the neighbour crocheted a blanket envied the mailman.,Who was envied?,"the mailman
+mailman", The mailman was envied.
+GP-A-PE,the neighbour crocheted a blanket envied the mailman.,Who was crocheted a blanket?,"the neighbour crocheted a blanket
+the neighbour
+neighbour crocheted a blanket
+neighbour", The neighbour was crocheting a blanket.
+GP-A-A1,the neighbour crocheted a blanket envied the mailman.,What did the neighbor do?,"envied the mailman
+envied", The neighbor envied the mailman.
+GP-A-AM,the neighbour crocheted a blanket envied the mailman.,Who envied the mailman?,"the neighbour crocheted a blanket
+the neighbour
+neighbour crocheted a blanket
+neighbour", The neighbour envied the mailman.
+GP-U-AM,the neighbour who was crocheted a blanket envied the mailman.,Who envied the mailman?,"the neighbour who was crocheted a blanket
+the neighbour
+neighbour who was crocheted a blanket
+neighbour", The neighbour envied the mailman.
+GP-U-PM,the neighbour who was crocheted a blanket envied the mailman.,Who was envied?,"the mailman
+mailman", The mailman was envied.
+GP-U-PE,the neighbour who was crocheted a blanket envied the mailman.,Who was crocheted a blanket?,"the neighbour who was crocheted a blanket
+the neighbour
+neighbour who was crocheted a blanket
+neighbour", The neighbour was crocheted a blanket.
+GP-U-A1,the neighbour who was crocheted a blanket envied the mailman.,What did the neighbor do?,"envied the mailman
+envied", The neighbor envied the mailman.
+GP-A-PM,the old man awarded the prize embraced a friend.,Who was embraced?,"a friend
+friend", A friend.
+GP-A-PE,the old man awarded the prize embraced a friend.,Who was awarded the prize?,"the old man awarded the prize
+the old man
+old man awarded the prize
+old man", The old man was awarded the prize.
+GP-A-A1,the old man awarded the prize embraced a friend.,What did the old man do?,"embraced a friend
+embraced", The old man embraced a friend.
+GP-A-AM,the old man awarded the prize embraced a friend.,Who embraced a friend?,"the old man awarded the prize
+the old man
+old man awarded the prize
+old man", The old man embraced a friend.
+GP-U-AM,the old man who was awarded the prize embraced a friend.,Who embraced a friend?,"the old man who was awarded the prize
+the old man
+old man who was awarded the prize
+old man", The old man embraced a friend.
+GP-U-PM,the old man who was awarded the prize embraced a friend.,Who was embraced?,"a friend
+friend", A friend was embraced.
+GP-U-PE,the old man who was awarded the prize embraced a friend.,Who was awarded the prize?,"the old man who was awarded the prize
+the old man
+old man who was awarded the prize
+old man", The old man was awarded the prize.
+GP-U-A1,the old man who was awarded the prize embraced a friend.,What did the old man do?,"embraced a friend
+embraced", The old man embraced a friend.
+GP-A-PM,the pack leader knitted a scarf thanked the boy scout.,Who was thanked?,"the boy scout
+boy scout", The boy scout was thanked.
+GP-A-PE,the pack leader knitted a scarf thanked the boy scout.,Who was knitted a scarf?,"the pack leader knitted a scarf
+the pack leader
+pack leader knitted a scarf
+pack leader", The pack leader knitted a scarf.
+GP-A-A1,the pack leader knitted a scarf thanked the boy scout.,What did the pack leader do?,thanked the boy scout, The pack leader thanked the boy scout.
+GP-A-AM,the pack leader knitted a scarf thanked the boy scout.,Who thanked the boy scout?,"the pack leader knitted a scarf
+the pack leader
+pack leader knitted a scarf
+pack leader", The pack leader thanked the boy scout.
+GP-U-AM,the pack leader who was knitted a scarf thanked the boy scout.,Who thanked the boy scout?,"the pack leader who was knitted a scarf
+the pack leader
+pack leader who was knitted a scarf
+pack leader", The pack leader thanked the boy scout.
+GP-U-PM,the pack leader who was knitted a scarf thanked the boy scout.,Who was thanked?,"the boy scout
+boy scout", The boy scout was thanked.
+GP-U-PE,the pack leader who was knitted a scarf thanked the boy scout.,Who was knitted a scarf?,"the pack leader who was knitted a scarf
+the pack leader
+pack leader who was knitted a scarf
+pack leader", The pack leader was knitted a scarf.
+GP-U-A1,the pack leader who was knitted a scarf thanked the boy scout.,What did the pack leader do?,thanked the boy scout, The pack leader thanked the boy scout.
+GP-A-PM,the player tossed the ball interfered with the other team.,Who was interfered with?,"the other team
+other team", The other team was interfered with.
+GP-A-PE,the player tossed the ball interfered with the other team.,Who was tossed the ball?,"the player tossed the ball
+the player
+player tossed the ball
+player", The player tossed the ball.
+GP-A-A1,the player tossed the ball interfered with the other team.,What did the player do?,"interfered with the other team
+interfered", The player interfered with the other team.
+GP-A-AM,the player tossed the ball interfered with the other team.,Who interfered?,"the player tossed the ball
+the player
+player tossed the ball
+player", The player interfered with the other team.
+GP-U-AM,the player who was tossed the ball interfered with the other team.,Who interfered?,"the player who was tossed the ball
+the player
+player who was tossed the ball
+player", The player who was tossed the ball interfered with the other team.
+GP-U-PM,the player who was tossed the ball interfered with the other team.,Who was interfered with?,"the other team
+other team",The other team was interfered with.
+GP-U-PE,the player who was tossed the ball interfered with the other team.,Who was tossed the ball?,"the player who was tossed the ball
+the player
+player who was tossed the ball
+player", The player who was tossed the ball was interfered with by the other team.
+GP-U-A1,the player who was tossed the ball interfered with the other team.,What did the player do?,"interfered with the other team
+interfered",The player interfered with the other team.
+GP-A-PM,the priest mailed a request telephoned the cardinal.,Who was telephoned?,"the cardinal
+cardinal",the cardinal was telephoned.
+GP-A-PE,the priest mailed a request telephoned the cardinal.,Who was mailed a request?,"the priest mailed a request
+the priest
+priest mailed a request
+priest", The cardinal was mailed a request.
+GP-A-A1,the priest mailed a request telephoned the cardinal.,What did the priest do?,"telephoned the cardinal
+telephoned", The priest telephoned the cardinal.
+GP-A-AM,the priest mailed a request telephoned the cardinal.,Who telephoned?,"the priest mailed a request
+the priest
+priest mailed a request
+priest", The priest telephoned the cardinal.
+GP-U-AM,the priest who was mailed a request telephoned the cardinal.,Who telephoned?,"the priest who was mailed a request
+the priest
+priest who was mailed a request
+priest", The priest telephoned the cardinal.
+GP-U-PM,the priest who was mailed a request telephoned the cardinal.,Who was telephoned?,"the cardinal
+cardinal", The cardinal was telephoned.
+GP-U-PE,the priest who was mailed a request telephoned the cardinal.,Who was mailed a request?,"the priest who was mailed a request
+the priest
+priest who was mailed a request
+priest", The priest was mailed a request.
+GP-U-A1,the priest who was mailed a request telephoned the cardinal.,What did the priest do?,"telephoned the cardinal
+telephoned", The priest telephoned the cardinal.
+GP-A-PM,the principal taught the policy emailed the teacher.,Who was emailed?,"the teacher
+teacher", The teacher.
+GP-A-PE,the principal taught the policy emailed the teacher.,Who was taught the policy?,"the principal taught the policy
+the principal
+principal taught the policy
+principal", The teacher was taught the policy.
+GP-A-A1,the principal taught the policy emailed the teacher.,What did the principal do?,"emailed the teacher
+emailed", The principal emailed the teacher.
+GP-A-AM,the principal taught the policy emailed the teacher.,Who emailed?,"the principal taught the policy
+the principal
+principal taught the policy
+principal", The principal emailed the teacher.
+GP-U-AM,the principal who was taught the policy emailed the teacher.,Who emailed?,"the principal who was taught the policy
+the principal
+principal who was taught the policy
+principal", The principal emailed the teacher.
+GP-U-PM,the principal who was taught the policy emailed the teacher.,Who was emailed?,"the teacher
+teacher", The teacher was emailed.
+GP-U-PE,the principal who was taught the policy emailed the teacher.,Who was taught the policy?,"the principal who was taught the policy
+the principal
+principal who was taught the policy
+principal", The principal was taught the policy.
+GP-U-A1,the principal who was taught the policy emailed the teacher.,What did the principal do?,"emailed the teacher
+emailed", The principal emailed the teacher.
+GP-A-PM,the prisoner procured a weekend pass whispered to the guard.,Who was whispered to?,"the guard
+guard", The guard was whispered to.
+GP-A-PE,the prisoner procured a weekend pass whispered to the guard.,Who was procured a weekend pass?,"the prisoner procured a weekend pass
+the prisoner
+prisoner procured a weekend pass
+prisoner", The prisoner procured a weekend pass.
+GP-A-A1,the prisoner procured a weekend pass whispered to the guard.,What did the prisoner do?,"whispered to the guard
+whispered", The prisoner whispered to the guard.
+GP-A-AM,the prisoner procured a weekend pass whispered to the guard.,Who whispered?,"the prisoner procured a weekend pass
+the prisoner
+prisoner procured a weekend pass
+prisoner", The prisoner whispered to the guard.
+GP-U-AM,the prisoner who was procured a weekend pass whispered to the guard.,Who whispered?,"the prisoner who was procured a weekend pass
+the prisoner
+prisoner who was procured a weekend pass
+prisoner", The prisoner whispered to the guard.
+GP-U-PM,the prisoner who was procured a weekend pass whispered to the guard.,Who was whispered to?,"the guard
+guard", The guard was whispered to.
+GP-U-PE,the prisoner who was procured a weekend pass whispered to the guard.,Who was procured a weekend pass?,"the prisoner who was procured a weekend pass
+the prisoner
+prisoner who was procured a weekend pass
+prisoner",The prisoner was procured a weekend pass.
+GP-U-A1,the prisoner who was procured a weekend pass whispered to the guard.,What did the prisoner do?,"whispered to the guard
+whispered", The prisoner whispered to the guard.
+GP-A-PM,the reporter told the rumour yelled at the witness.,Who was yelled at?,"the witness
+witness", The witness was yelled at.
+GP-A-PE,the reporter told the rumour yelled at the witness.,Who was told the rumour?,"the reporter told the rumour
+the reporter
+reporter told the rumour
+reporter", The witness was told the rumour.
+GP-A-A1,the reporter told the rumour yelled at the witness.,What did the reporter do?,"yelled at the witness
+yelled", The reporter yelled at the witness.
+GP-A-AM,the reporter told the rumour yelled at the witness.,Who yelled?,"the reporter told the rumour
+the reporter
+reporter told the rumour
+reporter", The reporter yelled at the witness.
+GP-U-AM,the reporter who was told the rumour yelled at the witness.,Who yelled?,"the reporter who was told the rumour
+the reporter
+reporter who was told the rumour
+reporter", The reporter yelled at the witness.
+GP-U-PM,the reporter who was told the rumour yelled at the witness.,Who was yelled at?,"the witness
+witness",The witness was yelled at.
+GP-U-PE,the reporter who was told the rumour yelled at the witness.,Who was told the rumour?,"the reporter who was told the rumour
+the reporter
+reporter who was told the rumour
+reporter", The reporter was told the rumour.
+GP-U-A1,the reporter who was told the rumour yelled at the witness.,What did the reporter do?,"yelled at the witness
+yelled", The reporter yelled at the witness.
+GP-A-PM,the scientist shipped critical supplies admired the tribesmen.,Who was admired?,"the tribesmen
+tribesmen", The tribesmen were admired.
+GP-A-PE,the scientist shipped critical supplies admired the tribesmen.,Who was shipped critical supplies?,"the scientist shipped critical supplies
+the scientist
+scientist shipped critical supplies
+scientist", The scientist shipped critical supplies.
+GP-A-A1,the scientist shipped critical supplies admired the tribesmen.,What did the scientist do?,"admired the tribesmen
+admired", The scientist admired the tribesmen.
+GP-A-AM,the scientist shipped critical supplies admired the tribesmen.,Who admired the tribesman?,"the scientist shipped critical supplies
+the scientist
+scientist shipped critical supplies
+scientist", The scientist admired the tribesman.
+GP-U-AM,the scientist who was shipped critical supplies admired the tribesmen.,Who admired the tribesman?,"the scientist who was shipped critical supplies
+the scientist
+scientist who was shipped critical supplies
+scientist", The scientist admired the tribesmen.
+GP-U-PM,the scientist who was shipped critical supplies admired the tribesmen.,Who was admired?,"the tribesmen
+tribesmen", The tribesmen were admired.
+GP-U-PE,the scientist who was shipped critical supplies admired the tribesmen.,Who was shipped critical supplies?,"the scientist who was shipped critical supplies
+the scientist
+scientist who was shipped critical supplies
+scientist", The scientist was shipped critical supplies.
+GP-U-A1,the scientist who was shipped critical supplies admired the tribesmen.,What did the scientist do?,"admired the tribesmen
+admired", The scientist admired the tribesmen.
+GP-A-PM,the secretary poured a beer chatted up the lawyer.,Who was chatted up?,"the lawyer
+lawyer",The lawyer was chatted up.
+GP-A-PE,the secretary poured a beer chatted up the lawyer.,Who was poured a beer?,"the secretary poured a beer
+the secretary
+secretary poured a beer
+secretary", The lawyer was poured a beer.
+GP-A-A1,the secretary poured a beer chatted up the lawyer.,What did the secretary do?,"chatted up the lawyer
+chatted
+chatted up", The secretary chatted up the lawyer.
+GP-A-AM,the secretary poured a beer chatted up the lawyer.,Who chatted up the lawyer?,"the secretary poured a beer
+the secretary
+secretary poured a beer
+secretary", The secretary chatted up the lawyer.
+GP-U-AM,the secretary who was poured a beer chatted up the lawyer.,Who chatted up the lawyer?,"the secretary who was poured a beer
+the secretary
+secretary who was poured a beer
+secretary", The secretary chatted up the lawyer.
+GP-U-PM,the secretary who was poured a beer chatted up the lawyer.,Who was chatted up?,"the lawyer
+lawyer", The lawyer was chatted up.
+GP-U-PE,the secretary who was poured a beer chatted up the lawyer.,Who was poured a beer?,"the secretary who was poured a beer
+the secretary
+secretary who was poured a beer
+secretary", The secretary was poured a beer.
+GP-U-A1,the secretary who was poured a beer chatted up the lawyer.,What did the secretary do?,"chatted up the lawyer
+chatted
+chatted up", The secretary chatted up the lawyer.
+GP-A-PM,the settlers built a log cabin thanked the neighbours.,Who was thanked?,"the neighbours
+neighbours", The neighbours were thanked.
+GP-A-PE,the settlers built a log cabin thanked the neighbours.,Who was built a log cabin?,"the settlers built a log cabin
+the settlers
+settlers built a log cabin
+settlers", The settlers built a log cabin.
+GP-A-A1,the settlers built a log cabin thanked the neighbours.,What did the settlers do?,thanked the neighbours,The settlers built a log cabin.
+GP-A-AM,the settlers built a log cabin thanked the neighbours.,Who thanked the neighbours?,"the settlers built a log cabin
+the settlers
+settlers built a log cabin
+settlers", The settlers thanked the neighbours.
+GP-U-AM,the settlers who were built a log cabin thanked the neighbours.,Who thanked the neighbours?,"the settlers who were built a log cabin
+the settlers
+settlers who were built a log cabin
+settlers", The settlers thanked the neighbours.
+GP-U-PM,the settlers who were built a log cabin thanked the neighbours.,Who was thanked?,"the neighbours
+neighbours", The neighbours were thanked.
+GP-U-PE,the settlers who were built a log cabin thanked the neighbours.,Who was built a log cabin?,"the settlers who were built a log cabin
+the settlers
+settlers who were built a log cabin
+settlers", The settlers were built a log cabin.
+GP-U-A1,the settlers who were built a log cabin thanked the neighbours.,What did the settlers do?,thanked the neighbours, The settlers thanked the neighbors.
+GP-A-PM,the spy served a dry martini watched the villain.,Who was watched?,"the villain
+villain", The villain was watched.
+GP-A-PE,the spy served a dry martini watched the villain.,Who was served a dry martini?,"the spy served a dry martini
+the spy
+spy served a dry martini
+spy", The villain was served a dry martini.
+GP-A-A1,the spy served a dry martini watched the villain.,What did the spy do?,"watched the villain
+watched",The spy watched the villain.
+GP-A-AM,the spy served a dry martini watched the villain.,Who watched the villain?,"the spy served a dry martini
+the spy
+spy served a dry martini
+spy", The spy watched the villain.
+GP-U-AM,the spy who was served a dry martini watched the villain.,Who watched the villain?,"the spy who was served a dry martini
+the spy
+spy who was served a dry martini
+spy",The spy watched the villain.
+GP-U-PM,the spy who was served a dry martini watched the villain.,Who was watched?,"the villain
+villain", The villain was watched.
+GP-U-PE,the spy who was served a dry martini watched the villain.,Who was served a dry martini?,"the spy who was served a dry martini
+the spy
+spy who was served a dry martini
+spy", The spy was served a dry martini.
+GP-U-A1,the spy who was served a dry martini watched the villain.,What did the spy do?,"watched the villain
+watched", The spy watched the villain.
+GP-A-PM,the student baked a cake called the roommate.,Who was called?,"the roommate
+roommate", The roommate was called.
+GP-A-PE,the student baked a cake called the roommate.,Who was baked a cake?,"the student baked a cake
+the student
+student baked a cake
+student", The student baked a cake.
+GP-A-A1,the student baked a cake called the roommate.,What did the student do?,"called the roommate
+called",The student baked a cake for the roommate.
+GP-A-AM,the student baked a cake called the roommate.,Who called?,"the student baked a cake
+the student
+student baked a cake
+student",The student called the roommate.
+GP-A-PM,the student called a bad name knew the bus driver.,Who was known?,"the bus driver
+bus driver", The bus driver was known.
+GP-A-PE,the student called a bad name knew the bus driver.,Who was called a bad name?,"the student called a bad name
+the student
+student called a bad name
+student", The bus driver was called a bad name.
+GP-A-A1,the student called a bad name knew the bus driver.,What did the student do?,knew the bus driver, The student called the bus driver a bad name.
+GP-A-AM,the student called a bad name knew the bus driver.,Who knew the bus driver?,"the student called a bad name
+the student
+student called a bad name
+student", The student knew the bus driver.
+GP-A-PM,the student found a scholarship talked to a professor.,Who was talked to?,"a professor
+professor", The student talked to a professor.
+GP-A-PE,the student found a scholarship talked to a professor.,Who was found a scholarship?,"the student found a scholarship
+the student
+student found a scholarship
+student", The student was found a scholarship.
+GP-A-A1,the student found a scholarship talked to a professor.,What did the student do?,"talked to a professor
+talked", The student talked to a professor.
+GP-A-AM,the student found a scholarship talked to a professor.,Who talked?,"the student found a scholarship
+the student
+student found a scholarship
+student", The student talked to the professor.
+GP-U-AM,the student who was baked a cake called the roommate.,Who called?,"the student who was baked a cake
+the student
+student who was baked a cake
+student", The student called the roommate.
+GP-U-PM,the student who was baked a cake called the roommate.,Who was called?,"the roommate
+roommate", The roommate was called.
+GP-U-PE,the student who was baked a cake called the roommate.,Who was baked a cake?,"the student who was baked a cake
+the student
+student who was baked a cake
+student", The student.
+GP-U-A1,the student who was baked a cake called the roommate.,What did the student do?,"called the roommate
+called", The student called the roommate.
+GP-U-AM,the student who was called a bad name knew the bus driver.,Who knew the bus driver?,"the student who was called a bad name
+the student
+student who was called a bad name
+student", The student who was called a bad name knew the bus driver.
+GP-U-PM,the student who was called a bad name knew the bus driver.,Who was known?,"the bus driver
+bus driver",The bus driver was known.
+GP-U-PE,the student who was called a bad name knew the bus driver.,Who was called a bad name?,"the student who was called a bad name
+the student
+student who was called a bad name
+student", The student was called a bad name.
+GP-U-A1,the student who was called a bad name knew the bus driver.,What did the student do?,knew the bus driver, The student knew the bus driver.
+GP-U-AM,the student who was found a scholarship talked to a professor.,Who talked?,"the student who was found a scholarship
+the student
+student who was found a scholarship
+student", The student talked to a professor.
+GP-U-PM,the student who was found a scholarship talked to a professor.,Who was talked to?,"a professor
+professor", The professor was talked to.
+GP-U-PE,the student who was found a scholarship talked to a professor.,Who was found a scholarship?,"the student who was found a scholarship
+the student
+student who was found a scholarship
+student",The student was found a scholarship.
+GP-U-A1,the student who was found a scholarship talked to a professor.,What did the student do?,"talked to a professor
+talked", The student talked to the professor.
+GP-A-PM,the teenager burned a cd smiled at the cheerleader.,Who was smiled at?,"the cheerleader
+cheerleader",The cheerleader was smiled at.
+GP-A-PE,the teenager burned a cd smiled at the cheerleader.,Who was burned a cd?,"the teenager burned a cd
+the teenager
+teenager burned a cd
+teenager", The teenager burned a cd.
+GP-A-A1,the teenager burned a cd smiled at the cheerleader.,What did the teenager do?,"smiled at the cheerleader
+smiled", The teenager smiled at the cheerleader.
+GP-A-AM,the teenager burned a cd smiled at the cheerleader.,Who smiled?,"the teenager burned a cd
+the teenager
+teenager burned a cd
+teenager", The cheerleader smiled.
+GP-U-AM,the teenager who was burned a cd smiled at the cheerleader.,Who smiled?,"the teenager who was burned a cd
+the teenager
+teenager who was burned a cd
+teenager", The teenager smiled at the cheerleader.
+GP-U-PM,the teenager who was burned a cd smiled at the cheerleader.,Who was smiled at?,"the cheerleader
+cheerleader", The cheerleader was smiled at.
+GP-U-PE,the teenager who was burned a cd smiled at the cheerleader.,Who was burned a cd?,"the teenager who was burned a cd
+the teenager
+teenager who was burned a cd
+teenager", The teenager burned a cd.
+GP-U-A1,the teenager who was burned a cd smiled at the cheerleader.,What did the teenager do?,"smiled at the cheerleader
+smiled", The teenager smiled at the cheerleader.
+GP-A-PM,the traveller booked the flight spotted a cab driver.,Who was spotted?,"a cab driver
+cab driver",A cab driver was spotted.
+GP-A-PE,the traveller booked the flight spotted a cab driver.,Who was booked the flight?,"the traveller booked the flight
+the traveller
+traveller booked the flight
+traveller", The traveller booked the flight.
+GP-A-A1,the traveller booked the flight spotted a cab driver.,What did the traveller do?,"spotted a cab driver
+spotted", The traveller spotted a cab driver.
+GP-A-AM,the traveller booked the flight spotted a cab driver.,Who spotted a cab driver?,"the traveller booked the flight
+the traveller
+traveller booked the flight
+traveller", The traveller spotted a cab driver.
+GP-U-AM,the traveller who was booked the flight spotted a cab driver.,Who spotted a cab driver?,"the traveller who was booked the flight
+the traveller
+traveller who was booked the flight
+traveller", The traveller who was booked the flight spotted a cab driver.
+GP-U-PM,the traveller who was booked the flight spotted a cab driver.,Who was spotted?,"a cab driver
+cab driver", The cab driver was spotted.
+GP-U-PE,the traveller who was booked the flight spotted a cab driver.,Who was booked the flight?,"the traveller who was booked the flight
+the traveller
+traveller who was booked the flight
+traveller", The traveller was booked the flight.
+GP-U-A1,the traveller who was booked the flight spotted a cab driver.,What did the traveller do?,"spotted a cab driver
+spotted", The traveller spotted the cab driver.
+GP-A-PM,the woman offered a free drink winked at the bartender.,Who was winked at?,"the bartender
+bartender", The bartender was winked at.
+GP-A-PE,the woman offered a free drink winked at the bartender.,Who was offered a free drink?,"the woman offered a free drink
+the woman
+woman offered a free drink
+woman", The bartender was offered a free drink.
+GP-A-A1,the woman offered a free drink winked at the bartender.,What did the woman do?,"winked at the bartender
+winked", The woman winked at the bartender.
+GP-A-AM,the woman offered a free drink winked at the bartender.,Who winked?,"the woman offered a free drink
+the woman
+woman offered a free drink
+woman", The woman winked at the bartender.
+GP-A-PM,the woman painted the portrait waved at the mayor.,Who was waved to?,"the mayor
+mayor", The mayor was waved to.
+GP-A-PE,the woman painted the portrait waved at the mayor.,Who was painted the portrait?,"the woman painted the portrait
+the woman
+woman painted the portrait
+woman", The woman painted the portrait.
+GP-A-A1,the woman painted the portrait waved at the mayor.,What did the woman do?,"waved at the mayor
+waved", The woman waved at the mayor.
+GP-A-AM,the woman painted the portrait waved at the mayor.,Who waved?,"the woman painted the portrait
+the woman
+woman painted the portrait
+woman", The woman waved at the mayor.
+GP-U-AM,the woman who was offered a free drink winked at the bartender.,Who winked?,"the woman who was offered a free drink
+the woman
+woman who was offered a free drink
+woman", The woman winked at the bartender.
+GP-U-PM,the woman who was offered a free drink winked at the bartender.,Who was winked at?,"the bartender
+bartender", The bartender was winked at.
+GP-U-PE,the woman who was offered a free drink winked at the bartender.,Who was offered a free drink?,"the woman who was offered a free drink
+the woman
+woman who was offered a free drink
+woman", The woman was offered a free drink.
+GP-U-A1,the woman who was offered a free drink winked at the bartender.,What did the woman do?,"winked at the bartender
+winked", The woman winked at the bartender.
+GP-U-AM,the woman who was painted the portrait waved at the mayor.,Who waved?,"the woman who was painted the portrait
+the woman
+woman who was painted the portrait
+woman", The woman who was painted the portrait waved at the mayor.
+GP-U-PM,the woman who was painted the portrait waved at the mayor.,Who was waved to?,"the mayor
+mayor", The mayor was waved to.
+GP-U-PE,the woman who was painted the portrait waved at the mayor.,Who was painted the portrait?,"the woman who was painted the portrait
+the woman
+woman who was painted the portrait
+woman", The woman who was painted the portrait.
+GP-U-A1,the woman who was painted the portrait waved at the mayor.,What did the woman do?,"waved at the mayor
+waved", The woman waved at the mayor.
+GP-A-A2,the babysitter purchased a gift card thanked the parents.,What did the babysitter get?,"purchased a gift card
+a gift card
+purchased a gift card
+gift card",The babysitter purchased a gift card.
+GP-A-A2,the boy sent an invitation hugged the tutor.,What did the boy get?,"an invitation
+sent an invitation
+an invitation", The boy got an invitation.
+GP-A-A2,the boyfriend left a voicemail distrusted the girlfriend.,What did the boyfriend get?,"left a voicemail
+a voicemail
+left a voicemail
+voicemail", The boyfriend received distrust from the girlfriend.
+GP-A-A2,the brit served the first ace defeated the italian.,What did the brit get?,"served the first ace
+served the first ace
+the first ace
+first ace", The Brit got an ace.
+GP-A-A2,the chef presented the new knife greeted the audience.,What did the chef get?,"the new knife
+the new knife
+new knife
+new knife
+presented the new knife", The chef greeted the audience.
+GP-A-A2,the child bought an ice cream cone smiled at the cashier.,What did the child get?,"bought an ice cream cone
+an ice cream cone", The child got an ice cream cone.
+GP-A-A2,the child read a story hugged the nanny.,What did the child get?,"read a story
+read a story
+a story
+story", The child got a hug from the nanny.
+GP-A-A2,the child saved a front row seat surprised the clown.,What did the child get?,"saved a front row seat
+a front row seat
+saved a front row seat
+front row seat", The child got a surprised reaction from the clown.
+GP-A-A2,the colonel granted leave phoned a travel agent.,What did the colonel get?,"granted leave
+leave", The colonel phoned a travel agent.
+GP-A-A2,the dispatcher handed a pink slip worried about the driver.,What did the dispatcher get?,"handed a pink slip
+a pink slip
+handed a pink slip
+pink slip", The dispatcher got a pink slip.
+GP-A-A2,the doctor delivered the donor organ assisted several surgeons.,What did the doctor get?,"delivered the donor organ
+the donor organ
+delivered the donor organ
+donor organ", The doctor delivered the donor organ.
+GP-A-A2,the general awarded the medal annoyed the soldier.,What did the general get?,"awarded the medal
+the medal
+awarded the medal
+medal", The general awarded the soldier a medal.
+GP-A-A2,the girl passed a note tattled on the classmate.,What did the girl get?,"passed a note
+a note
+passed a note
+note", The girl got in trouble for tattling on her classmate.
+GP-A-A2,the girl played a song photographed the tourist.,What did the girl get?,"played a song
+a song
+played a song
+song", The girl photographed the tourist.
+GP-A-A2,the girl won a stuffed bear ignored the carnival worker.,What did the girl get?,"won a stuffed bear
+a stuffed bear
+won a stuffed bear
+stuffed bear", The girl got a stuffed bear.
+GP-A-A2,the golfer cooked a special meal toasted the host.,What did the golfer get?,"cooked a special meal
+a special meal
+cooked a special meal
+special meal", The golfer toasted the host.
+GP-A-A2,the hobo cut a slice of cheese despised the beggar.,What did the hobo get?,"cut a slice of cheese
+a slice of cheese
+cut a slice of cheese
+slice of cheese", The hobo got a slice of cheese.
+GP-A-A2,the inspector paid a fee argued with the fireman.,What did the inspector get?,"paid a fee
+a fee
+paid a fee
+fee", The inspector did not get anything; the inspector simply argued with the fireman.
+GP-A-A2,the instructor submitted the plagiarized papers visited the dean.,What did the instructor get?,"submitted the plagiarized papers
+the plagiarized papers
+submitted the plagiarized papers
+plagiarized papers",The instructor visited the dean.
+GP-A-A2,the manager prepared the report praised the employees.,What did the manager get?,"prepared the report
+the report
+prepared the report
+report",The manager praised the employees.
+GP-A-A2,the millionaire sculpted a statue bragged to the banker.,What did the millionaire get?,"sculpted a statue
+a statue
+sculpted a statue
+statue", The millionaire bragged to the banker.
+GP-A-A2,the neighbour crocheted a blanket envied the mailman.,What did the neighbour get?,"crocheted a blanket
+a blanket
+crocheted a blanket
+blanket", The neighbour got a crocheted blanket.
+GP-A-A2,the old man awarded the prize embraced a friend.,What did the old get?,"awarded the prize
+the prize
+awarded the prize
+prize", The old man embraced a friend.
+GP-A-A2,the pack leader knitted a scarf thanked the boy scout.,What did the pack get?,"knitted a scarf
+a scarf
+knitted a scarf
+scarf", The pack leader thanked the boy scout.
+GP-A-A2,the player tossed the ball interfered with the other team.,What did the player get?,"tossed the ball
+the ball
+tossed the ball
+ball", The player got in trouble/ a penalty for interfering with the other team.
+GP-A-A2,the priest mailed a request telephoned the cardinal.,What did the priest get?,"mailed a request
+a request
+mailed a request
+request", The priest telephoned the cardinal.
+GP-A-A2,the principal taught the policy emailed the teacher.,What did the principal get?,"taught the policy
+the policy
+taught the policy
+policy",The principal emailed the teacher.
+GP-A-A2,the prisoner procured a weekend pass whispered to the guard.,What did the prisoner get?,"procured a weekend pass
+a weekend pass
+procured a weekend pass
+weekend pass",The prisoner got a weekend pass.
+GP-A-A2,the reporter told the rumour yelled at the witness.,What did the reporter get?,"told the rumour
+the rumour
+told the rumour
+rumour", The reporter got yelled at by the witness.
+GP-A-A2,the scientist shipped critical supplies admired the tribesmen.,What did the scientist get?,"shipped critical supplies
+critical supplies", The scientist got admiration from the tribesmen.
+GP-A-A2,the secretary poured a beer chatted up the lawyer.,What did the secretary get?,"poured a beer
+a beer
+poured a beer
+beer", The secretary got nothing.
+GP-A-A2,the settlers built a log cabin thanked the neighbours.,What did the settlers get?,"built a log cabin
+a log cabin
+built a log cabin
+log cabin", The settlers got thanked by the neighbours.
+GP-A-A2,the spy served a dry martini watched the villain.,What did the spy get?,"served a dry martini
+a dry martini
+served a dry martini
+dry martini", The spy got a dry martini.
+GP-A-A2,the student baked a cake called the roommate.,What did the student get?,"baked a cake
+a cake
+baked a cake
+cake", The student got a cake.
+GP-A-A2,the student called a bad name knew the bus driver.,What did the student get?,"called a bad name
+a bad name
+called a bad name
+bad name", The student got to know the bus driver.
+GP-A-A2,the student found a scholarship talked to a professor.,What did the student get?,"found a scholarship
+a scholarship
+found a scholarship
+scholarship", The student got advice from a professor.
+GP-A-A2,the teenager burned a cd smiled at the cheerleader.,What did the teenager get?,"burned a cd
+a cd
+burned a cd
+cd", The teenager smiled at the cheerleader.
+GP-A-A2,the traveller booked the flight spotted a cab driver.,What did the traveller get?,"booked the flight
+the flight
+booked the flight
+flight", The traveller got a cab driver.
+GP-A-A2,the woman offered a free drink winked at the bartender.,What did the woman get?,"offered a free drink
+a free drink
+offered a free drink
+free drink", The woman winked at the bartender.
+GP-A-A2,the woman painted the portrait waved at the mayor.,What did the woman get?,"painted the portrait
+the portrait
+painted the portrait
+portrait", The woman waved at the mayor.
+GP-U-A2,the babysitter who was purchased a gift card thanked the parents.,What did the babysitter get?,"purchased a gift card
+a gift card
+purchased a gift card
+gift card", The babysitter got a gift card.
+GP-U-A2,the boy who was sent an invitation hugged the tutor.,What did the boy get?,"an invitation
+sent an invitation
+an invitation", The boy got a hug from the tutor.
+GP-U-A2,the boyfriend who was left a voicemail distrusted the girlfriend.,What did the boyfriend get?,"left a voicemail
+a voicemail
+left a voicemail
+voicemail",The boyfriend got a feeling of distrust towards the girlfriend.
+GP-U-A2,the brit who was served the first ace defeated the italian.,What did the brit get?,"served the first ace
+served the first ace
+the first ace
+first ace", The brit got the first ace.
+GP-U-A2,the chef who was presented the new knife greeted the audience.,What did the chef get?,"the new knife
+the new knife
+new knife
+new knife
+presented the new knife", The chef got a new knife.
+GP-U-A2,the child who was bought an ice cream cone smiled at the cashier.,What did the child get?,"bought an ice cream cone
+an ice cream cone", The child got an ice cream cone.
+GP-U-A2,the child who was read a story hugged the nanny.,What did the child get?,"read a story
+read a story
+a story
+story", The child got the comfort and reassurance of the hug from the nanny.
+GP-U-A2,the child who was saved a front row seat surprised the clown.,What did the child get?,"saved a front row seat
+a front row seat
+saved a front row seat
+front row seat",The child got a front row seat.
+GP-U-A2,the colonel who was granted leave phoned a travel agent.,What did the colonel get?,"granted leave
+leave","The colonel got permission to take a vacation, and he phoned a travel agent to make arrangements for a trip."
+GP-U-A2,the dispatcher who was handed a pink slip worried about the driver.,What did the dispatcher get?,"handed a pink slip
+a pink slip
+handed a pink slip
+pink slip", The dispatcher got a pink slip.
+GP-U-A2,the doctor who was delivered the donor organ assisted several surgeons.,What did the doctor get?,"delivered the donor organ
+the donor organ
+delivered the donor organ
+donor organ", The doctor got a donor organ.
+GP-U-A2,the general who was awarded the medal annoyed the soldier.,What did the general get?,"awarded the medal
+the medal
+awarded the medal
+medal", The general got a medal.
+GP-U-A2,the girl who was passed a note tattled on the classmate.,What did the girl get?,"passed a note
+a note
+passed a note
+note", The girl got tattled on by the classmate.
+GP-U-A2,the girl who was played a song photographed the tourist.,What did the girl get?,"played a song
+a song
+played a song
+song", The girl photographed the tourist.
+GP-U-A2,the girl who was won a stuffed bear ignored the carnival worker.,What did the girl get?,"won a stuffed bear
+a stuffed bear
+won a stuffed bear
+stuffed bear", The girl got a stuffed bear.
+GP-U-A2,the golfer who was cooked a special meal toasted the host.,What did the golfer get?,"cooked a special meal
+a special meal
+cooked a special meal
+special meal", The golfer got a special meal.
+GP-U-A2,the hobo who was cut a slice of cheese despised the beggar.,What did the hobo get?,"cut a slice of cheese
+a slice of cheese
+cut a slice of cheese
+slice of cheese",The hobo got a slice of cheese.
+GP-U-A2,the inspector who was paid a fee argued with the fireman.,What did the inspector get?,"paid a fee
+a fee
+paid a fee
+fee", The inspector got a fee.
+GP-U-A2,the instructor who was submitted the plagiarized papers visited the dean.,What did the instructor get?,"submitted the plagiarized papers
+the plagiarized papers
+submitted the plagiarized papers
+plagiarized papers", The instructor received reprimand from the dean.
+GP-U-A2,the manager who was prepared the report praised the employees.,What did the manager get?,"prepared the report
+the report
+prepared the report
+report", The manager praised the employees.
+GP-U-A2,the millionaire who was sculpted a statue bragged to the banker.,What did the millionaire get?,"sculpted a statue
+a statue
+sculpted a statue
+statue", The millionaire received bragging rights from the banker.
+GP-U-A2,the neighbour who was crocheted a blanket envied the mailman.,What did the neighbour get?,"crocheted a blanket
+a blanket
+crocheted a blanket
+blanket", The neighbour got the envy of the mailman.
+GP-U-A2,the old man who was awarded the prize embraced a friend.,What did the old get?,"awarded the prize
+the prize
+awarded the prize
+prize", The old man received a prize.
+GP-U-A2,the pack leader who was knitted a scarf thanked the boy scout.,What did the pack get?,"knitted a scarf
+a scarf
+knitted a scarf
+scarf",The pack leader thanked the boy scout.
+GP-U-A2,the player who was tossed the ball interfered with the other team.,What did the player get?,"tossed the ball
+the ball
+tossed the ball
+ball", The player got a penalty.
+GP-U-A2,the priest who was mailed a request telephoned the cardinal.,What did the priest get?,"mailed a request
+a request
+mailed a request
+request", The priest got a telephone call from the cardinal.
+GP-U-A2,the principal who was taught the policy emailed the teacher.,What did the principal get?,"taught the policy
+the policy
+taught the policy
+policy", The principal emailed the teacher.
+GP-U-A2,the prisoner who was procured a weekend pass whispered to the guard.,What did the prisoner get?,"procured a weekend pass
+a weekend pass
+procured a weekend pass
+weekend pass", The prisoner got a weekend pass.
+GP-U-A2,the reporter who was told the rumour yelled at the witness.,What did the reporter get?,"told the rumour
+the rumour
+told the rumour
+rumour", The reporter got yelled at by the witness.
+GP-U-A2,the scientist who was shipped critical supplies admired the tribesmen.,What did the scientist get?,"shipped critical supplies
+critical supplies", The scientist admired the tribesmen.
+GP-U-A2,the secretary who was poured a beer chatted up the lawyer.,What did the secretary get?,"poured a beer
+a beer
+poured a beer
+beer", The secretary got a beer.
+GP-U-A2,the settlers who were built a log cabin thanked the neighbours.,What did the settlers get?,"built a log cabin
+a log cabin
+built a log cabin
+log cabin", The settlers got thanks from the neighbours.
+GP-U-A2,the spy who was served a dry martini watched the villain.,What did the spy get?,"served a dry martini
+a dry martini
+served a dry martini
+dry martini", The spy got a dry martini.
+GP-U-A2,the student who was baked a cake called the roommate.,What did the student get?,"baked a cake
+a cake
+baked a cake
+cake",The student got the roommate to call.
+GP-U-A2,the student who was called a bad name knew the bus driver.,What did the student get?,"called a bad name
+a bad name
+called a bad name
+bad name", The student got to know the bus driver.
+GP-U-A2,the student who was found a scholarship talked to a professor.,What did the student get?,"found a scholarship
+a scholarship
+found a scholarship
+scholarship", The student got a scholarship.
+GP-U-A2,the teenager who was burned a cd smiled at the cheerleader.,What did the teenager get?,"burned a cd
+a cd
+burned a cd
+cd", The teenager smiled at the cheerleader.
+GP-U-A2,the traveller who was booked the flight spotted a cab driver.,What did the traveller get?,"booked the flight
+the flight
+booked the flight
+flight", The traveller got a cab driver.
+GP-U-A2,the woman who was offered a free drink winked at the bartender.,What did the woman get?,"offered a free drink
+a free drink
+offered a free drink
+free drink", The woman got a free drink.
+GP-U-A2,the woman who was painted the portrait waved at the mayor.,What did the woman get?,"painted the portrait
+the portrait
+painted the portrait
+portrait", The woman received a wave from the mayor.
